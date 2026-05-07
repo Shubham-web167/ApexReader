@@ -63,14 +63,10 @@ The project was born out of frustration with bloated PDF readers — ApexReader 
 
 ><img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/58235886-3276-4e93-9b2b-38b0279ce4d4" />
 <img width="1360" height="498" alt="image" src="https://github.com/user-attachments/assets/3cf1ea27-c888-4ec1-a004-885457f1c4fe" />
-<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/74f038be-c13b-41a1-aa5b-e873e40b2503" />
-<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/3f0f48ac-6e4d-48f8-91b7-b8e09ee6835b" />
-<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/17f98fe3-6d30-4034-8cb7-37a56e456d47" />
+
 <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/f00c7ad8-920d-4168-92c6-37e8450e0c1c" />
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/14a9b770-881f-4321-a43c-4ea0ba212a43" />
 
-<img width="1914" height="1005" alt="image" src="https://github.com/user-attachments/assets/44a94d51-f6fb-48a3-a79c-46443168ed99" />
-<img width="1896" height="1077" alt="image" src="https://github.com/user-attachments/assets/f2e7fbcc-ec5e-4429-a606-94282ce63729" />
 
 ---
 
