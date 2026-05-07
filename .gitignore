@@ -1,0 +1,61 @@
+# =============================================================================
+# ApexReader — .gitignore
+# =============================================================================
+
+# ── Build output ──────────────────────────────────────────────────────────────
+build/
+out/
+cmake-build-*/
+
+# ── Temporary / scratch directories ──────────────────────────────────────────
+_temp_gumbo/
+
+# ── IDE / Editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.user
+*.suo
+.vs/
+
+# ── Compiled objects & binaries ───────────────────────────────────────────────
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# ── Large downloaded archives / installers ────────────────────────────────────
+pdfium-win-x64.tgz
+vs_BuildTools.exe
+
+# ── Debug / log files ─────────────────────────────────────────────────────────
+debug_log.txt
+*.log
+
+# ── vcpkg build artifacts (keep ports & triplets, exclude generated dirs) ────
+vcpkg/buildtrees/
+vcpkg/downloads/
+vcpkg/packages/
+vcpkg/installed/
+
+# ── CMake generated files ─────────────────────────────────────────────────────
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── OS noise ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
