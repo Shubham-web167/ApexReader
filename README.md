@@ -65,7 +65,7 @@ The project was born out of frustration with bloated PDF readers — ApexReader 
 <img width="1360" height="498" alt="image" src="https://github.com/user-attachments/assets/3cf1ea27-c888-4ec1-a004-885457f1c4fe" />
 
 <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/f00c7ad8-920d-4168-92c6-37e8450e0c1c" />
-<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/14a9b770-881f-4321-a43c-4ea0ba212a43" />
+
 
 
 ---
